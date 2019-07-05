@@ -1,8 +1,0 @@
-Android:
-react-native bundle --platform android --dev false --entry-file index.js --bundle-output android/app/src/main/assets/index.android.bundle --assets-dest android/app/src/main/res/
-
-Windows:
-react-native bundle --platform windows --entry-file index.js --bundle-output windows\AnimeGo\ReactAssets\index.windows.bundle --assets-dest windows\AnimeGo\ReactAssets --dev false
-
-IOS:
-react-native bundle --platform ios --dev false --entry-file index.js --bundle-output ios/main.jsbundle --assets-dest ios/AnimeGo/main.jsbundle
