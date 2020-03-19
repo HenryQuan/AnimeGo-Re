@@ -1,6 +1,6 @@
 <div align="center">
 <h1>AnimeGo</h1>
-<img src="https://raw.githubusercontent.com/HenryQuan/React-Native-GoGoAnime/master/sketch/Icons/AppIcon.png" width="200px" height="200px" />
+<img src="https://raw.githubusercontent.com/HenryQuan/React-Native-GoGoAnime/react-native/sketch/Icons/AppIcon.png" width="200px" height="200px" />
 
 **This is not official**
 
@@ -51,12 +51,12 @@ Download from [microsoft store](https://www.microsoft.com/en-AU/store/p/anime-go
 
 ## Screenshots (before 1.1.0)
 <div>
-  <img src="https://raw.githubusercontent.com/HenryQuan/React-Native-GoGoAnime/master/screenshots/UWP/1.PNG" width="200px" height="300px" />
-  <img src="https://raw.githubusercontent.com/HenryQuan/React-Native-GoGoAnime/master/screenshots/UWP/2.PNG" width="200px" height="300px" />
-  <img src="https://raw.githubusercontent.com/HenryQuan/React-Native-GoGoAnime/master/screenshots/UWP/3.PNG" width="200px" height="300px" />
-  <img src="https://raw.githubusercontent.com/HenryQuan/React-Native-GoGoAnime/master/screenshots/UWP/4.PNG" width="200px" height="300px" />
-  <img src="https://raw.githubusercontent.com/HenryQuan/React-Native-GoGoAnime/master/screenshots/UWP/5.PNG" width="200px" height="300px" />
-  <img src="https://raw.githubusercontent.com/HenryQuan/React-Native-GoGoAnime/master/screenshots/UWP/6.PNG" width="200px" height="300px" />
+  <img src="https://raw.githubusercontent.com/HenryQuan/React-Native-GoGoAnime/react-native/screenshots/UWP/1.PNG" width="200px" height="300px" />
+  <img src="https://raw.githubusercontent.com/HenryQuan/React-Native-GoGoAnime/react-native/screenshots/UWP/2.PNG" width="200px" height="300px" />
+  <img src="https://raw.githubusercontent.com/HenryQuan/React-Native-GoGoAnime/react-native/screenshots/UWP/3.PNG" width="200px" height="300px" />
+  <img src="https://raw.githubusercontent.com/HenryQuan/React-Native-GoGoAnime/react-native/screenshots/UWP/4.PNG" width="200px" height="300px" />
+  <img src="https://raw.githubusercontent.com/HenryQuan/React-Native-GoGoAnime/react-native/screenshots/UWP/5.PNG" width="200px" height="300px" />
+  <img src="https://raw.githubusercontent.com/HenryQuan/React-Native-GoGoAnime/react-native/screenshots/UWP/6.PNG" width="200px" height="300px" />
 </div>
 Screenshots are from UWP with data saver mode on
 
