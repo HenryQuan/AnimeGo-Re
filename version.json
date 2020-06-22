@@ -1,1 +1,1 @@
-{"version": "1.1.0"}
+{"version": "1.1.0", "new": "- Complete rewrite in Flutter\n- Watch anime with built-in player\n- Block all pop-ups while watching anime\n- Added favourite anime list and watch history\n- Added past seasons in seasonal anime page\n- Added auto app update\n- Added auto domain update\n- Better iOS and tablet support", "link": ""}
